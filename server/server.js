@@ -12,3 +12,4 @@ app.use(express.static(publicPath));
 app.listen(port, () => {
     console.log(`Server is live on port: ${port}`);
 });
+
